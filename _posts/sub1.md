@@ -210,8 +210,12 @@ During initialization, the larger the weight, the more significant its contribut
 >In the case of k clusters, we need **<em>log<sub>2</sub>k</em>** bits to encode it. In a neural network with n connections and each connection is represented with b bits, restraining the connections to have only k shared weights will result in a compression rate of,
 
 <div align = "center">
+<center>
 <img align="center" width=250 src="/public/images/image2.JPG">
+  
 Equation to calculated the gradient of the centroids, here L- Loss, Wi,j - weight ith column and jth row, the centroid index of element Wi,j by Iij , the kth centroid of the layer by Ck.
+  
+  </center>
 </div>
 
 ## **3. Huffman Coding**
@@ -263,7 +267,7 @@ compress the representation of the DL best model, which we have learned. We want
 to squeeze the model to make it accessible to mobile devices with lighter
 computation.
 <div align = "center">
-<img width=400 src="/public/images/a5a46ac82dfbbb39fda4ebd118067a6a.png">
+<img width=200 src="/public/images/a5a46ac82dfbbb39fda4ebd118067a6a.png">
 
 Figure 4
 </div>
