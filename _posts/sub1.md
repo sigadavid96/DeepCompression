@@ -187,8 +187,9 @@ During initialization, the larger the weight, the more significant its contribut
 ### **2. Generate Code Book**
 
 >**Assign the clustered index to each weight**: The original n weights of the layer are assigned to one of the centroids by minimizing the within-cluster sum-of-squares.
-
+<div align="center">
 <img align="center" width=250 src="/public/images/image4.JPG">
+ </div>
 <br/>
 
 ### **3. Quantize the weights with the Code Book**
@@ -199,8 +200,9 @@ During initialization, the larger the weight, the more significant its contribut
 ### **4. Retrain Code Book**
 
 >**Calculate the gradient of the loss function** for each weight (k centroids): Sum the gradients of weights in each cluster, multiply this by the learning rate and subtract from the cluster centroids from the previous iteration.
-
+<div align="center">
 <img align="center" width=250 src="/public/images/image5.JPG">
+ </div>
 <br/>
 
 **Quantization Compression Rate**
