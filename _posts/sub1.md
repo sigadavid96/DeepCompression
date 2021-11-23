@@ -226,13 +226,13 @@ Equation to calculated the gradient of the centroids, here L- Loss, Wi,j - weigh
 
 >The research paper examines four networks that were "compressed." We will discuss their results briefly. Table 1 shows the network parameters and Top-1 before and after pruning. We notice a tremendous decrease in the network storage by 35× to 49× across the networks with no loss of accuracy. From Table 2, we can identify that most of the saving comes from pruning and quantization, while Huffman coding gives a marginal gain.
 <div align = "center">
-<img align="center" src="/public/images/image6.JPG">
+<img width =400 align="center" src="/public/images/image6.JPG">
 <br/>
 Table 1: The compression pipeline can save 35× to 49× parameter storage with no loss of accuracy.
 </div>
 
 <div align = "center">
-<img align="center" src="/public/images/image7.JPG">
+<img width =400 align="center" src="/public/images/image7.JPG">
 <br/>
 Table 2: Compression statistics for  LeNet-300-100, LeNet-5, AlexNet and VGG-16. P: pruning, Q:quantization, H:Huffman coding.
 </div>
