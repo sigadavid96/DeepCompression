@@ -80,13 +80,13 @@ substantially (Figure 1.3) over time.
 
 And In Twenty-First Century, Data never sleeps.
 
-<center>
+<div align = "center">
 
 <img align="center" width=300 src="/public/images/1e7e591ac75b717e79bb1d6aeed2ad8c.jpeg">
 
 [Figure 1.4: Impact of data in the 20th Century](https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg)
 
-</center>
+</div>
 
 
 ### **The Problem with Deep Learning**
