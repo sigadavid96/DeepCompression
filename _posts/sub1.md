@@ -42,7 +42,8 @@ they observe.
 
 Below is an example of a Deep Neural Network (the architecture used for DL)
 <div align = "center">
-<img width =500 src="/public/images/9682a9c5b4152a4addc326a3f433db66.png">
+<img width =500 align="center" src="/public/images/9682a9c5b4152a4addc326a3f433db66.png">
+  
 [Figure 1.1: Deep Neural Network](<https://www.researchgate.net/figure/Deep-Neural-Network-architecture_fig1_330120030>
 </div>
 <br/>
