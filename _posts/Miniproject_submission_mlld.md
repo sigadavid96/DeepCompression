@@ -44,13 +44,10 @@ Below is an example of a Deep Neural Network (the architecture used for DL)
 <center>
 <img width =500 align="center" src="/public/images/9682a9c5b4152a4addc326a3f433db66.png">
 
-[Figure 1.1 ](<https://www.researchgate.net/figure/Deep-Neural-Network-architecture_fig1_330120030>)
+[Figure 1.1: Deep Neural Network](<https://www.researchgate.net/figure/Deep-Neural-Network-architecture_fig1_330120030>)
 
 </center>
 <br/>
-
-Source:
-
 
 Historically, machines executed tasks by being coded with deterministic
 algorithms, which had to be coded by a human. DL helps us by not needing any
@@ -68,12 +65,12 @@ accuracy when trained with a huge amount of data"* [2]
 <center>
 <img align="center" width=400 src="/public/images/f540bcba2c39a89657f268fa86588296.png">
 
-[Figure 1.2](https://www.researchgate.net/figure/Illustrative-comparison-between-performance-of-deep-learning-against-that-of-most-other_fig2_336078673)
+[Figure 1.2: Deep Learning VS. Machine Learning](https://www.researchgate.net/figure/Illustrative-comparison-between-performance-of-deep-learning-against-that-of-most-other_fig2_336078673)
 
 <br/>
 <img align="center" width=400 src="/public/images/f0714079aa20da7ee34eee92a5cdb557.png">
 
-[Figure 1.3](https://trends.google.com/trends/explore?date=2005-10-21%202019-12-31&q=%2Fm%2F0h1fn8h)
+[Figure 1.3 : Deep Learning usage in industry](https://trends.google.com/trends/explore?date=2005-10-21%202019-12-31&q=%2Fm%2F0h1fn8h)
 
 <br/>
 </center>
@@ -89,7 +86,7 @@ And In Twenty-First Century, Data never sleeps.
 
 <img align="center" width=300 src="/public/images/1e7e591ac75b717e79bb1d6aeed2ad8c.jpeg">
 
-[Figure 1.4](https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg)
+[Figure 1.4: Impact of data in the 20th Century](https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg)
 
 </center>
 
@@ -120,7 +117,7 @@ following issues which could arise.
 <center>
 <img align="center" width=300 src="/public/images/8c3f43d467a5739b3378d0aa9118910d.png">
 
-Figure 2
+Figure 2 : Need for Deep Learning in Mobile devicess
 </center>
 
 Hence, we need to optimize the regular DL approach to be lightweight on the
