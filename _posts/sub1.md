@@ -232,7 +232,7 @@ Table 1: The compression pipeline can save 35× to 49× parameter storage with n
 </div>
 
 <div align = "center">
-<img width =400 align="center" src="/public/images/image7.JPG">
+<img align="center" src="/public/images/image7.JPG">
 <br/>
 Table 2: Compression statistics for  LeNet-300-100, LeNet-5, AlexNet and VGG-16. P: pruning, Q:quantization, H:Huffman coding.
 </div>
@@ -252,7 +252,7 @@ Science.
 <div align = "center">
 <img width=400 src="/public/images/fdf62537b0bcabc9571b4c40bf372da4.png">
 
-Figure 3
+Figure 4
 </div>
 <br/>
 
@@ -267,9 +267,9 @@ compress the representation of the DL best model, which we have learned. We want
 to squeeze the model to make it accessible to mobile devices with lighter
 computation.
 <div align = "center">
-<img width=200 src="/public/images/a5a46ac82dfbbb39fda4ebd118067a6a.png">
+<img width=400 src="/public/images/a5a46ac82dfbbb39fda4ebd118067a6a.png">
 
-Figure 4
+Figure 5
 </div>
 
 <br/>
@@ -296,9 +296,12 @@ directly.
 >Many real world applications of deep learning like pedestrian detection require fast inference. The fully connected layers are the heaviest in most deep convolutional networks and these fully connected layers are getting compressed the most from deep compression. Hence deep compression is particularly beneficial for applications that focus on extremely low time latency.
 
 <div align = "center">
+ <center>
 <img src="/public/images/speedup.png" alt="Kitten"
  title="A cute kitten" width="600" height="200" />
-FigureXXX: Compared with the original network, pruned network layer achieved 3x speedup on CPU, 3.5x on GPU and 4.2x on mobile GPU on average.
+   
+Figure 6: Compared with the original network, pruned network layer achieved 3x speedup on CPU, 3.5x on GPU and 4.2x on mobile GPU on average.
+  </center>
 </div>
 
 >We notice that Deep Compression could cause a loss in accuracy due to pruning,
