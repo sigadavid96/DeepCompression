@@ -8,7 +8,7 @@ authors: Siga, Carolene, Carnegie Mellon University; Srivastava, Shreya, Carnegi
 # **Mobility in Deep Learning Is a Big Optimization Problem, and We've Solved It! (Almost)**
 
 <p align="center">
-  <img src="MLLD_blog/public/images/b235fb4a4d6d55e74a67dc988814630a.jpeg">
+  <img src="/public/images/b235fb4a4d6d55e74a67dc988814630a.jpeg">
 </p>
 
 *“Deep learning will radically change the ways we interact with technology.”*  
