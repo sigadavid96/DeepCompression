@@ -71,7 +71,7 @@ accuracy when trained with a huge amount of data"* [2]
 [Figure 1.2](https://www.researchgate.net/figure/Illustrative-comparison-between-performance-of-deep-learning-against-that-of-most-other_fig2_336078673)
 
 <br/>
-<img align="center" width=400 src="MLLD_blog//public/images/f0714079aa20da7ee34eee92a5cdb557.png">
+<img align="center" width=400 src="/public/images/f0714079aa20da7ee34eee92a5cdb557.png">
 
 [Figure 1.3](https://trends.google.com/trends/explore?date=2005-10-21%202019-12-31&q=%2Fm%2F0h1fn8h)
 
@@ -87,7 +87,7 @@ And In Twenty-First Century, Data never sleeps.
 
 <center>
 
-<img align="center" width=300 src="MLLD_blog//public/images/1e7e591ac75b717e79bb1d6aeed2ad8c.jpeg">
+<img align="center" width=300 src="/public/images/1e7e591ac75b717e79bb1d6aeed2ad8c.jpeg">
 
 [Figure 1.4](https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg)
 
@@ -118,7 +118,7 @@ But, running it on the cloud makes the whole process inefficient because of the
 following issues which could arise.
 
 <center>
-<img align="center" width=300 src="MLLD_blog//public/images/8c3f43d467a5739b3378d0aa9118910d.png">
+<img align="center" width=300 src="/public/images/8c3f43d467a5739b3378d0aa9118910d.png">
 
 Figure 2
 </center>
@@ -149,7 +149,7 @@ Networks helping the mobile devices access DL easily.
 
 Deep neural networks try to mimic the way synaptic connections form between neurons in the human brain. A newborn baby constantly learns and makes new neural connections, comparable to training a deep neural network. However, it is interesting to note that the number of neural connections peak at the age of one and reduce and stabilize by the age of ten. This suggests that some of the connections formed at an early stage are pruned or removed naturally. In the same way, we can [prune deep neural networks](https://blog.paperspace.com/neural-network-pruning-explained/) to remove redundant weights and nodes. Pruning would compress the model and decrease the space and computational requirements, making the deployment of deep neural networks in real-world scenarios easier and achievable.
 <p align="center">
-<img src="MLLD_blog//public/images/synapses.png" alt="Kitten"
+<img src="/public/images/synapses.png" alt="Kitten"
  title="A cute kitten" width="400" height="200" />
 </p>
 
